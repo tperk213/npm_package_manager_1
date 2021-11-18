@@ -4,7 +4,8 @@
 	"author": "Tom Perkins",
 	"description": "this project is to learn npm managment",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
