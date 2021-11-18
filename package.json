@@ -2,6 +2,7 @@
 	
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tom Perkins",
+	"description": "this project is to learn npm managment",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
